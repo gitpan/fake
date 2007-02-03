@@ -1,0 +1,6 @@
+Revision history for Perl extension fake.
+
+0.0.1  Fri Feb  2 21:35:27 2007
+	- original version; created by h2xs 1.23 with options
+		-AXc -n fake
+
